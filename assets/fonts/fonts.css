@@ -1,0 +1,33 @@
+
+ 
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: bold;
+    /* /home/zahra/trip/assets/fonts/woff/IRANSansWeb_Medium.woff */
+    src: url('./woff/IRANSansWeb.woff') format('woff');  /* All Major Browsers */
+}
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 500;
+    src: url('./woff/IRANSansWeb_Black.woff') format('woff');  /* All Major Browsers */
+}
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 300;
+    src: url('./woff/IRANSansWeb_Light.woff') format('woff');  
+}
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: 200;
+    src: url('./woff/IRANSansWeb_UltraLight.woff') format('woff');  /* All Major Browsers */
+}
+@font-face {
+    font-family: IRANSans;
+    font-style: normal;
+    font-weight: normal;
+    src: url('./woff/IRANSansWeb_Medium.woff') format('woff');  /* All Major Browsers */
+}
